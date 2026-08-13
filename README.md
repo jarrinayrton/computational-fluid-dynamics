@@ -86,9 +86,7 @@ If you have questions on the material, you can find me in the office:
 Location: 2nd floor, Senescyt Building, or on Zoom.
 
 ## Class attendance:
-- I mark attendance myself on Moodle after every class. Please check your record regularly, and let me know if you think there is an issue with it.
 - As per regulations of the Vicerrector's office of Yachay Tech, you should attend 70% of the classes to pass the course.
-- To justify an absence, please submit all the necessary official documentation within 5 days. Certificates must be official — issued by the University medical centre or by **Bienestar Universitario** — and must comply with what the University regulations establish.
 
 ## On academic integrity:
 - Students are responsible for ensuring the academic integrity of their submitted assignments and exams.
