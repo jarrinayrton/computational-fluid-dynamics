@@ -12,38 +12,43 @@ Wladimir E. Banda-Barragán
 This course develops computational fluid dynamics as a current research topic in computational physics, using specialised computing, simulation and visualisation tools throughout. Starting from the fundamental properties of fluids, hydrostatics and control-volume analysis, it builds the differential formulation of fluid motion and the numerical methods used to solve it. Each unit combines the underlying theory with the design, implementation and validation of numerical solvers, and with the analysis and visualisation of the resulting simulation data.
 
 ## Programming languages and tools:
-- We work in **Linux** environments throughout the course.
-- **Python** is our main language.
-- We will possibly also use **C++** and **Julia**, where execution speed matters.
+- We work in Linux environments throughout the course.
+- Python is our main language.
+- We will possibly also use C++ and Julia, where execution speed matters.
 - Open-source flow solvers are used as benchmarks for verification and validation.
-- Bring a laptop to class if you can.
 
 ## Syllabus:
+
 ### UC.1 Fluids, conservation laws and a first solver
 - Fluid properties, the continuum hypothesis, viscosity, and surface tension
 - Fluid statics: pressure distribution, manometry, hydrostatic forces, and buoyancy
 - Control-volume analysis: conservation of mass, momentum and energy; Bernoulli's equation
 - From conservation laws to computation: grids, discretisation, and a first advection solver
+
 ### UC.2 Kinematics, transport and numerical stability
 - Flow kinematics: Lagrangian and Eulerian descriptions, material derivative, streamlines and pathlines
 - Linear and nonlinear transport: wave steepening and shock formation in Burgers' equation
 - Diffusion, the CFL condition and numerical stability: numerical dissipation and dispersion
 - Finite-volume formulation: conservative fluxes, boundary conditions, and verification tests
+
 ### UC.3 Differential analysis and viscous flow
 - Differential analysis: continuity and Navier–Stokes equations, stream function, and vorticity
 - Exact solutions and potential flow: Couette and Poiseuille flow, and elementary flow superposition
 - Advection and diffusion in two dimensions: the vorticity–streamfunction formulation
 - Pressure–velocity coupling: the pressure–Poisson equation and projection methods
+
 ### UC.4 Incompressible solvers, similitude and validation
 - Two-dimensional incompressible solvers: lid-driven cavity and channel flow
 - Flow past a cylinder: vortex shedding, Strouhal number, and wake structure
 - Dimensional analysis, the Buckingham Pi theorem, similitude, and dimensionless groups
 - Verification and validation: grid convergence, benchmark data, and open-source flow solvers
+
 ### UC.5 Internal and external flow, boundary layers and turbulence
 - Laminar and turbulent internal flow: velocity profiles, friction factors, and the Moody chart
 - Boundary layers: displacement and momentum thickness, transition, and flow separation
 - Drag and lift on immersed bodies: pressure and friction contributions, and aerofoil polars
 - Turbulence: the energy cascade, statistical description, and turbulence modelling in simulations
+
 ### UC.6 Compressible flow, instabilities and large-scale simulation
 - Compressible flow: speed of sound, Mach number, isentropic relations, and nozzle flow
 - Shocks and expansion waves: the Riemann problem and Godunov-type finite-volume schemes
