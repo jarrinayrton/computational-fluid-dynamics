@@ -1,4 +1,5 @@
-# Special Topics in Computational Physics: Computational Fluid Dynamics
+# Special Topics in Computational Physics:
+## Computational Fluid Dynamics
 
 ## Yachay Tech University - 2026
 
