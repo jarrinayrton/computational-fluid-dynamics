@@ -20,11 +20,11 @@ This course develops computational fluid dynamics as a current research topic in
 
 ## Syllabus:
 
-### UC.1 Fluids, conservation laws and a first solver
-- Fluid properties, the continuum hypothesis, viscosity, and surface tension
-- Fluid statics: pressure distribution, manometry, hydrostatic forces, and buoyancy
-- Control-volume analysis: conservation of mass, momentum and energy; Bernoulli's equation
-- From conservation laws to computation: grids, discretisation, and a first advection solver
+### UC.1 Fluid Properties and Fluid Statics
+- Fluid properties, the continuum hypothesis, the ideal gas law, viscosity, and the Reynolds number
+- Compressibility, the speed of sound, vapour pressure and cavitation, and surface tension
+- Fluid statics: pressure at a point, the hydrostatic distribution, pressure head, and the standard atmosphere
+- Manometry, hydrostatic forces on plane and curved surfaces, buoyancy, flotation, and stability
 
 ### UC.2 Kinematics, transport and numerical stability
 - Flow kinematics: Lagrangian and Eulerian descriptions, material derivative, streamlines and pathlines
