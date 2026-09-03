@@ -58,7 +58,7 @@ This course develops computational fluid dynamics as a current research topic in
 
 ## Full Course Syllabus and Programme:
 The full course syllabus can be found here:
-- For BSc in Physics: *(link to be added)*
+- For BSc in Physics: https://github.com/wbandabarragan/computational-fluid-dynamics/blob/main/Syllabus_IISEM2026_fisica.pdf
 
 ## References and bibliography:
 1. Munson, Bruce; Okiishi, Theodore; Huebsch, Wade; Rothmayer, Alric, *Fundamentals of Fluid Mechanics*, 7th Edition, 2013.
